@@ -1,0 +1,59 @@
+.Litentop{
+    margin: 2px;
+    border: solid 2px;color: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.Stortop{
+    background-image: url(./snow_winter_trees.jpg);
+    background-size: contain;
+    border: solid 2px;
+    border-radius: 10px;
+    border-color: red;
+    font-family: 'Mountains of Christmas', cursive;
+    text-align: center;
+}
+.rubrik{
+    text-align: center;
+}
+.mellan{
+    border: solid 2px;
+    border-radius: 10px;
+    border-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+
+.vänster{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: red;
+    width: 10%;
+}
+.mitten{
+    
+    width: 80%;
+    height: 500px;
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: red;
+}
+.höger{
+    
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: red;
+}
+.nere{
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: red;
+    text-align: center;
+}
